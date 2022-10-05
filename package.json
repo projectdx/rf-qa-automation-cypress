@@ -1,0 +1,15 @@
+{
+  "name": "rainforest",
+  "version": "1.0.0",
+  "description": "Renew Financial autotests",
+  "main": "demo.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "tahir cam",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
