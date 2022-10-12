@@ -3,7 +3,7 @@ export const timeouts = {
     DELAY: 500,
     ONE_SECOND: 1000,
     TWO_SECONDS: 2000,
-    FIVE_SECONDS: 5000,
+    FIVE_SECONDS: 5000, 
     TEN_SECONDS: 10000,
     TWENTY_SECONDS: 20000
 }

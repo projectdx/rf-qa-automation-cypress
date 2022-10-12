@@ -1,0 +1,8 @@
+#Files
+/cypress/videos
+/cypress/screenshots
+/cypress/downloads
+
+#Dependency directories
+node_modules/
+/cypress.env.json
